@@ -1,2 +1,2 @@
 # reST-snippet
-reST snipped for KATE (KDE text editor)
+reST snippet for KATE (KDE text editor)
