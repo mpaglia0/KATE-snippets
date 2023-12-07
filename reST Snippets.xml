@@ -1,4 +1,4 @@
-<snippets name="reStructuredText Snippets" authors="mpaglia0" namespace="reST" license="BSD" filetypes="ANS-Forth94">
+<snippets license="BSD" name="reStructuredText Snippets" namespace="reST" authors="mpaglia0" filetypes="reStructuredText">
  <script>function fileName() { return document.fileName(); }
 function fileUrl() { return document.url(); }
 function encoding() { return document.encoding(); }
