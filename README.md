@@ -1,4 +1,4 @@
-# KATE-snippes
+# KATE-snippets
 Snippets for KATE (KDE text editor)
 
 Usage: copy the .xml file in `$HOME/.local/share/ktexteditor_snippets/data/`
